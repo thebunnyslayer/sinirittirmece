@@ -1,0 +1,2 @@
+# sinirittirmece
+gamejam oyunu
